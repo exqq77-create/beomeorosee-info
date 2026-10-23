@@ -7,17 +7,20 @@
 """
 import json, re, sys, html, datetime
 from pathlib import Path
-from PIL import Image
+from PIL import Image, ImageOps, ImageEnhance
 
 E = lambda s: html.escape(str(s), quote=True)
 
 
-def card_images(root, dist, cards):
+def card_images(root, dist, cards, cards_adjust=None):
     """원본 사진 → 정사각 1024/480 jpg + webp (dist/images/home/<key>-photo[-small].{jpg,webp})."""
     out_dir = dist / 'images' / 'home'; out_dir.mkdir(parents=True, exist_ok=True)
     for c in cards:
         src = dist / c['photo'].lstrip('/')
-        im = Image.open(src).convert('RGB'); w, h = im.size
+        im = ImageOps.exif_transpose(Image.open(src)).convert('RGB'); w, h = im.size
+        adj = c.get('adjust') or (cards_adjust if isinstance(cards_adjust, dict) else {})
+        if adj.get('brightness'): im = ImageEnhance.Brightness(im).enhance(adj['brightness'])
+        if adj.get('contrast'): im = ImageEnhance.Contrast(im).enhance(adj['contrast'])
         fx, fy = c.get('focus', [0.5, 0.5])
         m = min(w, h)
         left = int(max(0, min(w - m, fx * w - m / 2))); top = int(max(0, min(h - m, fy * h - m / 2)))
@@ -37,7 +40,7 @@ def render(root):
     old = (dist / 'index.html').read_text(encoding='utf-8') if (dist / 'index.html').exists() else ''
     naver = re.search(r'<meta name="naver-site-verification"[^>]*>', old)
     icons = re.findall(r'<link rel="(?:icon|apple-touch-icon)"[^>]*>', old)
-    card_images(root, dist, H['cards'])
+    card_images(root, dist, H['cards'], H.get('cards_adjust'))
     kw, brand = H['keyword'], H['brand']
     theme = ''.join(f'{k}:{v};' for k, v in H.get('theme', {}).items())
     css = ''.join('<style>' + (assets / f).read_text(encoding='utf-8') + '</style>' for f in ('styles.css', 'extra.css', 'home-layout.css', 'homepage-original.css', 'homepage-details.css'))
