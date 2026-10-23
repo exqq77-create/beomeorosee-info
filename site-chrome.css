@@ -1,0 +1,33 @@
+/* 새론이치과 홈과 통일한 글 페이지 헤더·푸터 (chrome). 홈은 build_home.py가 별도 생성 */
+.sh-utility{background:var(--sh-navy,#1f4e49);color:#fff;font-size:14px}
+.sh-utility .sh-wrap{display:flex;justify-content:space-between;gap:20px;padding:6px 24px;max-width:1200px;margin:0 auto}
+.sh-utility a{color:#fff;text-decoration:none;font-weight:600}
+.sh-header{background:#fff;border-bottom:1px solid var(--sh-line,#dce5eb);position:sticky;top:0;z-index:50}
+.sh-header .sh-wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 24px;max-width:1200px;margin:0 auto}
+.sh-brand{display:flex;align-items:center;gap:18px;text-decoration:none;color:var(--sh-ink,#162e3c)}
+.sh-brand .sh-keyword{font-size:25px;font-weight:750;letter-spacing:-1px;white-space:nowrap}
+.sh-brand .sh-bar{width:1px;height:28px;background:var(--sh-line,#dce5eb)}
+.sh-brand img{width:40px;height:40px;object-fit:contain}
+.sh-brand .sh-name{font-size:18px;font-weight:700;color:var(--sh-navy,#1f4e49);white-space:nowrap;margin-left:-8px}
+.sh-official{margin-left:auto;font-size:15px;font-weight:600;color:var(--sh-blue,#0074aa);text-decoration:none;white-space:nowrap}
+.sh-official:hover{text-decoration:underline}
+.sh-footer{background:var(--sh-navy,#1f4e49);color:#dfe8e6;margin-top:48px;padding:40px 0 90px;font-size:14px;line-height:1.7}
+.sh-footer .sh-wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+.sh-footer-top{display:flex;justify-content:space-between;gap:32px;flex-wrap:wrap}
+.sh-footer h2{margin:0 0 8px;font-size:18px;color:#fff}
+.sh-footer p{margin:2px 0}
+.sh-footer a{color:#fff}
+.sh-footer-links{display:flex;flex-direction:column;gap:6px}
+.sh-footer-links a{text-decoration:none;font-weight:600}
+.sh-footer-links a:hover{text-decoration:underline}
+.sh-disclaimer{margin-top:22px;padding-top:16px;border-top:1px solid rgba(255,255,255,.18);font-size:13px;color:#c9d4d2}
+.sh-mobile-call{display:none}
+@media(max-width:800px){
+ .sh-utility{font-size:12px}.sh-utility .sh-wrap{padding:6px 14px;gap:10px}.sh-utility span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}.sh-utility a{white-space:nowrap}
+ .sh-header .sh-wrap{padding:10px 14px}
+ .sh-brand .sh-keyword{font-size:21px}.sh-brand .sh-name{font-size:15px}.sh-brand img{width:32px;height:32px}.sh-official{display:none}
+ .sh-mobile-call{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:70;background:var(--sh-navy,#1f4e49);padding-bottom:env(safe-area-inset-bottom)}
+ .sh-mobile-call a{flex:1;text-align:center;color:#fff;text-decoration:none;font-weight:700;padding:14px 8px;border-right:1px solid rgba(255,255,255,.2)}
+ .sh-mobile-call a:last-child{border-right:0}
+ body{padding-bottom:60px}
+}
