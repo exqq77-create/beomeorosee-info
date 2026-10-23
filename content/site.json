@@ -1,0 +1,17 @@
+{
+  "origin": "https://beomeorosee.co.kr",
+  "dist": "docs",
+  "brand": "범어로제피부과의원",
+  "keyword": "대구피부과",
+  "author": "대구피부과",
+  "category": "미분류",
+  "title_suffix": " | 대구피부과",
+  "per_page": 10,
+  "rss_items": 30,
+  "min_chars": 1500,
+  "max_chars": 2500,
+  "article_marker": "<h1 class=\"ph\">",
+  "hubs": {"대구피부과": "/대구피부과/", "범어동피부과": "/범어동피부과/", "수성구피부과": "/수성구피부과/"},
+  "forbidden": ["1위", "최고", "보장", "완치", "부작용 없", "피부과 전문의"],
+  "forbidden_patterns": ["\\d+\\s*%", "\\d+만\\s*원"]
+}
