@@ -94,7 +94,7 @@ def render(root):
                 f'<button type="button" data-carousel-direction="1" aria-controls="main-carousel" aria-label="다음 안내 보기">›</button></div></div>'
                 f'<div class="carousel" id="main-carousel" tabindex="0" role="region" aria-label="{E(brand)} 주요 안내 {len(H["cards"])}개">{cards}</div></section>')
     hero = H['hero']
-    guide = (f'<article class="source-homeguide" id="treatments" data-original-revision="{datetime.date.today()}-home-1"><header class="original-hero"><p class="original-kicker">{E(brand)}</p>'
+    guide = (f'<article class="source-homeguide" id="treatments" data-original-revision="{H.get('revision', 'home-1')}"><header class="original-hero"><p class="original-kicker">{E(brand)}</p>'
              f'<h1>{E(hero["title"])}</h1><p class="original-subtitle">{E(hero["subtitle"])}</p>' + ''.join(f'<p>{E(p)}</p>' for p in hero['paras']) + '</header>')
     guide += ('<section class="original-section" id="guide-checkpoints"><p class="original-kicker">CHECKPOINT 01–04</p><h2>진료 전 살펴볼 네 가지</h2><div class="original-checks">' +
               ''.join(f'<div class="original-check"><span class="original-count">{i:02d}</span><h3>{i:02d} · {E(c["title"])}</h3><p>{E(c["text"])}</p></div>' for i, c in enumerate(H['checkpoints'], 1)) + '</div></section>')
