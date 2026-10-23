@@ -36,7 +36,13 @@
    "body_chars": 2490,
    "sha256_16": "b2636d6d815c03ae",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "thermage-elasticity-check",
+     "date": "2026-10-23",
+     "note": "써마지 고주파 RF 진피 콜라겐, 탄력 저하 원인, 진단 중심 각도"
+    }
+   ]
   },
   {
    "id": "004",
