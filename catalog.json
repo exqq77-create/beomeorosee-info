@@ -4560,7 +4560,13 @@
    "body_chars": 1656,
    "sha256_16": "ba6700c48b3a8bea",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "nail-fungus-diagnosis-first",
+     "date": "2026-10-23",
+     "note": "손발톱 무좀: 변색 원인 감별·진균검사, 바르는 약 한계, 생활관리"
+    }
+   ]
   },
   {
    "id": "381",
