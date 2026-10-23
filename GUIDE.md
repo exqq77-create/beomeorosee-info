@@ -31,3 +31,8 @@ git -C <repo> worktree add ../<repo>-sources origin/sources
 - `check`가 PASS이고(분량·소제목·금지어·제목 중복·슬러그 중복), 같은 키워드 최근 3편과 의미 중복이 없는지 직접 확인한 글만 발행합니다.
 - FAIL이면 고쳐서 다시 검사합니다. 발행량을 채우려고 그대로 공개하지 않습니다.
 - 발행 후 `git status`로 변경 범위가 새 글 폴더 + blog/ 목록 + sitemap.xml + rss.xml + content/ 범위인지 확인합니다. 홈 index.html이 바뀌었으면 발행하지 말고 보고합니다.
+
+## 홈·공통 헤더/푸터 (2026-10-23 추가)
+- 홈(dist/index.html)은 main 브랜치 `content/home.json` → `python3 -I tools/build_home.py .` 로만 생성한다. 발행 작업에서는 홈을 다시 만들지 않는다(수정 금지).
+- 글·목록 페이지의 헤더/푸터는 `scripts/build.py`가 `<!-- chrome:start/end -->`, `<!-- chrome-footer:start/end -->` 마커로 매번 교체한다. 발행 후 반드시 `python3 scripts/build.py` 실행.
+- `site-chrome.css`(저장소 루트)와 `home-assets/`는 수정 금지.
