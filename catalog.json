@@ -4146,7 +4146,13 @@
    "body_chars": 2338,
    "sha256_16": "3880a6f6affb5193",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "beard-hair-removal-shaving-check",
+     "date": "2026-10-24",
+     "note": "수염 제모: 면도 습관 점검, 털 성장주기와 여러 회 진행, 부위별 차이, 시술 전후 주의"
+    }
+   ]
   },
   {
    "id": "346",
