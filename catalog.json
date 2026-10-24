@@ -4956,7 +4956,13 @@
    "body_chars": 2467,
    "sha256_16": "1fce65196ba3194b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-habits-care-criteria",
+     "date": "2026-10-24",
+     "note": "여드름 원인(피지·호르몬·환경), 직접 짜지 않기, 진료 확인 항목"
+    }
+   ]
   },
   {
    "id": "413",
