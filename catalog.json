@@ -5538,7 +5538,13 @@
    "body_chars": 3386,
    "sha256_16": "79145ec90ad58889",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "inmode-face-fat-check",
+     "date": "2026-10-24",
+     "note": "인모드 모드별 목적·얼굴 살 얇은 경우 부위 구분 각도"
+    }
+   ]
   },
   {
    "id": "460",
