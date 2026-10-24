@@ -4470,7 +4470,13 @@
    "body_chars": 2431,
    "sha256_16": "f455d64ffe6cd188",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "square-jaw-botox-check",
+     "date": "2026-10-24",
+     "note": "사각턱 원인(저작근·습관)·보톡스 원리·내성/용량·개인별 설계 확인 기준"
+    }
+   ]
   },
   {
    "id": "373",
