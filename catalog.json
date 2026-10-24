@@ -5580,7 +5580,13 @@
    "body_chars": 2759,
    "sha256_16": "7a5586caac85cf8e",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "blemish-removal-type-check",
+     "date": "2026-10-24",
+     "note": "잡티 종류(주근깨·일광흑자·검버섯·기미) 구분, 색소 깊이, 딱지·자외선 차단 관리"
+    }
+   ]
   },
   {
    "id": "463",
