@@ -5214,7 +5214,13 @@
    "body_chars": 2409,
    "sha256_16": "2fba046f3b09a923",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "women-hair-removal-prep-check",
+     "date": "2026-10-25",
+     "note": "여성 제모: 시술 전 면도·뽑기 금지, 부위별 확인, 사후관리 각도"
+    }
+   ]
   },
   {
    "id": "432",
