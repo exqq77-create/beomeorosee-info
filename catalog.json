@@ -1146,7 +1146,13 @@
    "body_chars": 3314,
    "sha256_16": "ccf3f822c5d546fb",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulthera-sagging-consult-check",
+     "date": "2026-10-25",
+     "note": "울쎄라 초음파 리프팅 원리·상담 전 정리·시술 후 관리 일반 안내(후기 제거)"
+    }
+   ]
   },
   {
    "id": "096",
