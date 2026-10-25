@@ -5064,7 +5064,13 @@
    "body_chars": 2412,
    "sha256_16": "935f8a3d86f12447",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-scar-type-check",
+     "date": "2026-10-25",
+     "note": "여드름 흉터: 색 자국 vs 패인 흉터 구분, 모양 유형, 염증 반복·생활요인, 현재 여드름 우선 관리 순서"
+    }
+   ]
   },
   {
    "id": "420",
