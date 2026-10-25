@@ -4032,7 +4032,13 @@
    "body_chars": 2344,
    "sha256_16": "d7024787ff7e83d6",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "melasma-recurrence-care-check",
+     "date": "2026-10-25",
+     "note": "기미 특성·자외선·호르몬·마찰, 토닝 강도 조절, 재발 관리 기준"
+    }
+   ]
   },
   {
    "id": "336",
