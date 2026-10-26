@@ -4422,7 +4422,13 @@
    "body_chars": 1408,
    "sha256_16": "a0152a2249cf37e0",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "water-glow-injection-dryness-check",
+     "date": "2026-10-26",
+     "note": "물광주사: 건조 피부 원인 확인, 시술 방식·과정, 시술 후 관리, 상담 전 확인(원문 366 사실 참고)"
+    }
+   ]
   },
   {
    "id": "367",
