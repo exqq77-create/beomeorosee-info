@@ -3972,7 +3972,13 @@
    "body_chars": 2068,
    "sha256_16": "dc1dbb69e322f08a",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "syringoma-eye-bumps-check",
+     "date": "2026-10-26",
+     "note": "한관종: 눈가 돌기 구분(비립종·여드름), 직접 짜지 않기, 진료 확인, 재발·생활관리 일반 안내"
+    }
+   ]
   },
   {
    "id": "331",
