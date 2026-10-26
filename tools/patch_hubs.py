@@ -87,8 +87,12 @@ for url, img, alt in cards:
     h1 = h.find('<h1'); nxt = min([x for x in (h.find(t, h1) for t in ('<h2', '<article', '<li', '<ul ')) if x > -1] or [-1])
     seg = h[h1:nxt] if nxt > h1 > -1 else ''
     if seg:
-        new_seg = re.sub(r'<img[^>]*>', fix_hero, seg, count=1)
-        if new_seg == seg:  # no hero image → insert after lead paragraph or h1
+        stem = img.split('/')[-1]
+        if 'hub-hero' in seg or stem in seg:  # 이미 적용됨(멱등)
+            new_seg = re.sub(r'<img[^>]*>', fix_hero, seg, count=1) if stem not in seg else seg
+        else:
+            new_seg = re.sub(r'<img[^>]*>', fix_hero, seg, count=1)
+        if new_seg == seg and stem not in seg:  # no hero image → insert after lead paragraph or h1
             ins = f'<figure class="mt-2 hub-hero" style="margin:0 0 20px"><img class="wide" src="{img.replace(origin, "")}" width="{W}" height="{W}" alt="{ealt}" loading="eager" decoding="async" fetchpriority="high" style="max-width:100%;height:auto;border-radius:12px"></figure>'
             lp = seg.find('</p>', seg.find('class="lead"')) if 'class="lead"' in seg else -1
             new_seg = seg[:lp + 4] + ins + seg[lp + 4:] if lp > -1 else re.sub(r'(</h1>)', r'\1' + ins, seg, count=1)
