@@ -5544,7 +5544,13 @@
    "body_chars": 2597,
    "sha256_16": "693f71c1a51709b9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "double-chin-cause-check",
+     "date": "2026-10-26",
+     "note": "이중턱 원인 구분: 지방·탄력 저하·자세/턱 구조, 상담 확인"
+    }
+   ]
   },
   {
    "id": "458",
