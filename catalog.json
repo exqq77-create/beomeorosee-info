@@ -4656,7 +4656,13 @@
    "body_chars": 2291,
    "sha256_16": "6372247c109e8204",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "first-visit-prep-checklist",
+     "date": "2026-10-26",
+     "note": "피부과 첫 방문 전 준비(목적 정리·제품/약 목록·상태 기록·예약·질문 메모) 일반 안내"
+    }
+   ]
   },
   {
    "id": "386",
