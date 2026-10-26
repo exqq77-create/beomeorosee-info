@@ -70,3 +70,5 @@ if __name__ == '__main__':
     print(json.dumps({'chrome_changed': apply_chrome(), 'quickmenu_changed': apply_quickmenu()}, ensure_ascii=False))
     t = ROOT / 'tools' / 'extra_info.py'
     if t.exists(): subprocess.run([sys.executable, '-I', str(t), 'apply'], check=False)
+    # 카드 대상 6쪽 대표 이미지 = 홈 카드 사진 (2026-10-26, 캐러셀 분석)
+    subprocess.run([sys.executable, '-I', str(ROOT / 'tools' / 'patch_hubs.py'), str(DIST)], check=False)
