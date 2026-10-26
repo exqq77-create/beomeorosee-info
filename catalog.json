@@ -5718,7 +5718,13 @@
    "body_chars": 2327,
    "sha256_16": "395ce14a9aa56f9f",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "hair-removal-after-shaving-waxing-irritation",
+     "date": "2026-10-26",
+     "note": "면도·왁싱 자극, 레이저 제모 접근, 횟수 개인차, 부위별 확인점 (장비 수치 제외)"
+    }
+   ]
   },
   {
    "id": "470",
