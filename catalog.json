@@ -3474,7 +3474,13 @@
    "body_chars": 2164,
    "sha256_16": "a693a2342c8b1a6b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "botox-repeat-interval-check",
+     "date": "2026-10-27",
+     "note": "보톡스: 유지 기간(3~6개월)·부위별 차이·반복 간격과 내성, 시술 후 생활 주의, 효과 기대와 다를 때(침샘 구분)"
+    }
+   ]
   },
   {
    "id": "289",
