@@ -6300,7 +6300,13 @@
    "body_chars": 2277,
    "sha256_16": "6a8ccd2f047f04df",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "skin-elasticity-decline-lifestyle-check",
+     "date": "2026-10-27",
+     "note": "피부 탄력 저하: 콜라겐 감소, 자외선·생활요인, 홈케어 한계, 비침습 리프팅 방식별 차이(원문 515 사실 참고)"
+    }
+   ]
   },
   {
    "id": "516",
