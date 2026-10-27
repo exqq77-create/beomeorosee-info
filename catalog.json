@@ -3060,7 +3060,13 @@
    "body_chars": 2668,
    "sha256_16": "4371bd9b1ec26e29",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "thermage-eye-area-check",
+     "date": "2026-10-27",
+     "note": "써마지 눈가·눈밑 탄력 각도, 부위별 계획·쿨링·회복 일반 안내"
+    }
+   ]
   },
   {
    "id": "255",
