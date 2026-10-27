@@ -4968,7 +4968,13 @@
    "body_chars": 2392,
    "sha256_16": "1254498bab677724",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-over-cleansing-check",
+     "date": "2026-10-27",
+     "note": "여드름: 과도한 세안·제품 과다 사용과 피부장벽 악순환, 손대는 습관, 생활요인 (원문 409 사실 참고)"
+    }
+   ]
   },
   {
    "id": "410",
