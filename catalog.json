@@ -858,7 +858,13 @@
    "body_chars": 2096,
    "sha256_16": "a15604c7d04a2d0d",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "melasma-sun-protection-habit-check",
+     "date": "2026-10-27",
+     "note": "기미와 자외선 차단 습관, 기미 vs 다른 색소 구분, 생활 요소"
+    }
+   ]
   },
   {
    "id": "072",
