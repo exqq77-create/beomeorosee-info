@@ -5622,7 +5622,13 @@
    "body_chars": 2537,
    "sha256_16": "9e5c17349782b84c",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "inmode-bruise-aftercare-check",
+     "date": "2026-10-28",
+     "note": "인모드 시술 후 멍·붉은 기운 원인, 일상 관리, 상담 확인점"
+    }
+   ]
   },
   {
    "id": "459",
