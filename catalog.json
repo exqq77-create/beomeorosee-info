@@ -348,7 +348,13 @@
    "body_chars": 1900,
    "sha256_16": "6c0101667109dc17",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "lifting-pain-anesthesia-check",
+     "date": "2026-10-28",
+     "note": "리프팅: 통증·마취 단계(연고/무통/수면)·시술 중 소통·시술 후 일상 (원문 028 사실 참고, 샷수·장비 제외)"
+    }
+   ]
   },
   {
    "id": "029",
