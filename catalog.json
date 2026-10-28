@@ -4434,7 +4434,13 @@
    "body_chars": 2335,
    "sha256_16": "dfb664720dd3d1fd",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "tattoo-removal-skin-response-check",
+     "date": "2026-10-28",
+     "note": "문신제거: 색소 잔존 상태·부위·피부톤·중간 변화·사후관리 확인 기준"
+    }
+   ]
   },
   {
    "id": "365",
