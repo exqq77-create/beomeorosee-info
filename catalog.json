@@ -5808,7 +5808,13 @@
    "body_chars": 1280,
    "sha256_16": "8bec6caf01b392c7",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "corn-callus-recurrence-check",
+     "date": "2026-10-29",
+     "note": "티눈 vs 굳은살 구분, 자가처치 부담, 재발 생활요인(신발·패드)"
+    }
+   ]
   },
   {
    "id": "471",
