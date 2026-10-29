@@ -1980,7 +1980,13 @@
    "body_chars": 2412,
    "sha256_16": "c1ff29efde8729dd",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "beard-hair-removal-session-check",
+     "date": "2026-10-29",
+     "note": "남성 수염 제모 횟수·간격, 통증 완화, 영구 표현, 왁싱·가정용 비교, 사후관리(장비명·수치 제외)"
+    }
+   ]
   },
   {
    "id": "163",
