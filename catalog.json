@@ -3192,7 +3192,13 @@
    "body_chars": 2368,
    "sha256_16": "452d810361e4d2d1",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-squeezing-habit-check",
+     "date": "2026-10-29",
+     "note": "여드름 짜는 습관·염증 악화·흉터/색소침착 위험"
+    }
+   ]
   },
   {
    "id": "264",
