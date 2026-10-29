@@ -4578,7 +4578,13 @@
    "body_chars": 2158,
    "sha256_16": "78a21ad4ebfc0530",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "lower-face-width-cause-check",
+     "date": "2026-10-29",
+     "note": "하관 원인(근육·침샘·지방·뼈) 구분, 보톡스 유지 3~6개월·당일 주의사항"
+    }
+   ]
   },
   {
    "id": "374",
