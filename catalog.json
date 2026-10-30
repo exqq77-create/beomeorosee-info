@@ -4812,7 +4812,13 @@
    "body_chars": 2933,
    "sha256_16": "3ce8dc5a3e499b23",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "first-visit-skin-consult-check",
+     "date": "2026-10-30",
+     "note": "피부과 첫 방문 진단·시술 전 확인·횟수·비용 상담 각도"
+    }
+   ]
   },
   {
    "id": "391",
