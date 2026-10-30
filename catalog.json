@@ -6204,7 +6204,13 @@
    "body_chars": 2304,
    "sha256_16": "6fc843e78daf079e",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "pico-toning-pigment-type-check",
+     "date": "2026-10-30",
+     "note": "피코토닝 원리·색소 종류별 접근·횟수 간격·사후관리"
+    }
+   ]
   },
   {
    "id": "501",
