@@ -5556,7 +5556,13 @@
    "body_chars": 2441,
    "sha256_16": "fd605bc11738b257",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulthera-shot-count-area-check",
+     "date": "2026-10-30",
+     "note": "울쎄라 샷 수가 부위·피부 상태·시술 이력에 따라 정해진다는 점, 시술 직후 반응(열감·붓기), 유지 기간 개인차"
+    }
+   ]
   },
   {
    "id": "452",
