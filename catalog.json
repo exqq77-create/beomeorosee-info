@@ -990,7 +990,13 @@
    "body_chars": 1872,
    "sha256_16": "4bc8d2651f6ee4bf",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "needle-free-skin-nutrition-check",
+     "date": "2026-10-30",
+     "note": "피부 속 수분·영양 전달 방식(바늘/비침습) 선택 기준, 통증 걱정 상담 포인트(장비명 제외)"
+    }
+   ]
   },
   {
    "id": "081",
