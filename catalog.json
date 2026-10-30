@@ -1824,7 +1824,13 @@
    "body_chars": 2017,
    "sha256_16": "f080f586250c886d",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "jaw-muscle-habit-self-check",
+     "date": "2026-10-30",
+     "note": "사각턱을 씹는 습관·저작근 발달 관점에서 자가 확인(어금니 맞물림), 침샘·지방 구분, 습관 교정, 일정 여유 2주"
+    }
+   ]
   },
   {
    "id": "150",
