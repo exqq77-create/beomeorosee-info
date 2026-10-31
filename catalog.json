@@ -5208,7 +5208,13 @@
    "body_chars": 2408,
    "sha256_16": "7a2c45064bc1afc9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-mark-home-care-consult-timing",
+     "date": "2026-10-31",
+     "note": "여드름 자국 유형(붉은/색소/패임), 집 관리 한계·자외선 차단, 압출 금지, 반복 관리 필요"
+    }
+   ]
   },
   {
    "id": "421",
