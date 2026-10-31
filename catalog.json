@@ -84,7 +84,13 @@
    "body_chars": 1080,
    "sha256_16": "0b74909aef046de6",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "blackhead-pore-care-check",
+     "date": "2026-10-31",
+     "note": "블랙헤드 생성 원리(피지·각질 산화), 세안·클렌징 습관, 압출 주의"
+    }
+   ]
   },
   {
    "id": "007",
