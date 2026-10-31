@@ -5130,7 +5130,13 @@
    "body_chars": 2367,
    "sha256_16": "0ba436bd10bcc1ab",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-recurrence-care-interval-check",
+     "date": "2026-10-31",
+     "note": "여드름 반복·재발 관점, 관리 간격(회복 주기)·생활 습관·자국 점검, 상담 전 준비"
+    }
+   ]
   },
   {
    "id": "416",
