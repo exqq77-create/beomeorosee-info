@@ -5796,7 +5796,13 @@
    "body_chars": 2321,
    "sha256_16": "cf24b15e29107d0b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "hair-removal-wavelength-skin-tone-check",
+     "date": "2026-10-31",
+     "note": "제모 레이저 파장 종류와 피부톤·털 굵기에 따른 접근, 부위별 설정, 전후 관리"
+    }
+   ]
   },
   {
    "id": "467",
