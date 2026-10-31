@@ -1386,7 +1386,13 @@
    "body_chars": 1960,
    "sha256_16": "efc4bfbe3d0e9b85",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "thermage-day-prep-aftercare",
+     "date": "2026-10-31",
+     "note": "써마지 시술 당일 준비·직후 일상 관리, 통증/마취 확인 각도"
+    }
+   ]
   },
   {
    "id": "113",
