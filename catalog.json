@@ -4176,7 +4176,13 @@
    "body_chars": 2326,
    "sha256_16": "e8bc85fb2e08d489",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "melasma-hormone-change-check",
+     "date": "2026-11-01",
+     "note": "기미 원인 요인(호르몬·유전·자극) 구분과 생활 관리, 시술 선택 시 유형·회복 고려"
+    }
+   ]
   },
   {
    "id": "341",
