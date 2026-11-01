@@ -600,7 +600,13 @@
    "body_chars": 2232,
    "sha256_16": "47c5113e6f6016d1",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "ulthera-thermage-combo-check",
+     "date": "2026-11-01",
+     "note": "울쎄라·써마지 병행: 고주파 진피층/초음파 근막층 차이, 샷수·강도 조절, 통증관리 확인 각도"
+    }
+   ]
   },
   {
    "id": "049",
