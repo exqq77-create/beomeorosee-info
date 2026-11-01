@@ -3888,7 +3888,13 @@
    "body_chars": 2357,
    "sha256_16": "e16f2494dc446db5",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-early-response-two-weeks-check",
+     "date": "2026-11-01",
+     "note": "여드름 초기 대응: 2주 이상 지속 시 확인, 셀프케어 범위, 붉은기 vs 색소 자국 구분, 피부장벽 (원문 317 사실 참고)"
+    }
+   ]
   },
   {
    "id": "318",
