@@ -5856,7 +5856,13 @@
    "body_chars": 2275,
    "sha256_16": "987547e8bd750ed0",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "shaving-waxing-to-laser-switch-check",
+     "date": "2026-11-01",
+     "note": "제모: 면도·왁싱 부담, 털 성장주기, 방문 전 준비, 관리 후 생활 각도"
+    }
+   ]
   },
   {
    "id": "469",
