@@ -1134,7 +1134,13 @@
    "body_chars": 2147,
    "sha256_16": "648a10ad614d7235",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "jawline-sagging-area-check",
+     "date": "2026-11-02",
+     "note": "턱선·처짐 부위 구분(볼/턱아래/입가), 습관, 상담 전 확인 (원문 090 일반 사실만, 기기명 제외)"
+    }
+   ]
   },
   {
    "id": "091",
