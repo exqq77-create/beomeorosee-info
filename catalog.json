@@ -2940,7 +2940,13 @@
    "body_chars": 1228,
    "sha256_16": "df5b77fffeb34207",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "medical-skin-disease-visit-check",
+     "date": "2026-11-02",
+     "note": "피부질환 진료 vs 미용 상담, 증상 구분·검사·보험 적용은 진료에서 확인 (원문 239 주제 참고, 기기명·수치 제외)"
+    }
+   ]
   },
   {
    "id": "240",
