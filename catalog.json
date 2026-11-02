@@ -4248,7 +4248,13 @@
    "body_chars": 2323,
    "sha256_16": "4d5d2c856e1e335f",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "male-beard-hair-removal-interval-check",
+     "date": "2026-11-02",
+     "note": "남성 수염 특성·성장주기·관리간격·사후관리(파장 비교 제외)"
+    }
+   ]
   },
   {
    "id": "345",
