@@ -408,7 +408,13 @@
    "body_chars": 2380,
    "sha256_16": "3d007c4d04ad22a1",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "skin-elasticity-lifestyle-check",
+     "date": "2026-11-02",
+     "note": "써마지 원문 중 탄력 저하 요인(자외선·수면·흡연)·피부 두께 개인차·상담 전 확인만 사용"
+    }
+   ]
   },
   {
    "id": "033",
