@@ -4566,7 +4566,13 @@
    "body_chars": 2071,
    "sha256_16": "dcb5cbd3d849e653",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "skinbooster-type-purpose-check",
+     "date": "2026-11-03",
+     "note": "스킨부스터 종류: 속건조 원인 측정, 수분 중심/탄력 중심 제품 목적 차이, 시술 방식·경험, 상담 전 확인(원문 367 사실 참고)"
+    }
+   ]
   },
   {
    "id": "368",
