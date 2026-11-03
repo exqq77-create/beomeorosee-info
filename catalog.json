@@ -5148,7 +5148,13 @@
    "body_chars": 2332,
    "sha256_16": "65706297189f453d",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "acne-stage-care-direction-check",
+     "date": "2026-11-03",
+     "note": "여드름 시기별(초기·염증기·자국기) 관리 방향 구분, 재발 경향"
+    }
+   ]
   },
   {
    "id": "412",
