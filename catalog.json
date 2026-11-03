@@ -948,7 +948,13 @@
    "body_chars": 2034,
    "sha256_16": "a8e03bee972342ff",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "pigment-type-difference-check",
+     "date": "2026-11-03",
+     "note": "기미·주근깨·염증후착색 구분, 자외선·호르몬 요인"
+    }
+   ]
   },
   {
    "id": "076",
