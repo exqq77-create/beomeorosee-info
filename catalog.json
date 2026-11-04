@@ -546,7 +546,13 @@
    "body_chars": 2344,
    "sha256_16": "4b26504e58afdaa7",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "body-acne-chest-back-check",
+     "date": "2026-11-04",
+     "note": "여드름이 얼굴 밖(쇄골·가슴·등)에도 생길 수 있다는 사실, 반복·자극 요인, 압출 금지 관점으로 재구성"
+    }
+   ]
   },
   {
    "id": "044",
