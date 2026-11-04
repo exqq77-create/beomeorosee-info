@@ -6252,7 +6252,13 @@
    "body_chars": 2262,
    "sha256_16": "82e0ad395cec1bcb",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "natural-change-skin-assessment-check",
+     "date": "2026-11-04",
+     "note": "자연스러운 변화를 위해 시술명보다 피부 두께·탄력·볼륨 등 현재 상태 확인 우선, 후기·전후사진 기준"
+    }
+   ]
   },
   {
    "id": "495",
