@@ -6696,7 +6696,13 @@
    "body_chars": 2134,
    "sha256_16": "a760d27c90bbea8c",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "sagging-face-aging-change-burden-check",
+     "date": "2026-11-05",
+     "note": "얼굴 처짐 원인(콜라겐·엘라스틴 감소), 실 리프팅 vs 에너지 방식 부담 차이, 1:1 상담 기준 (기기명·수치 제외)"
+    }
+   ]
   },
   {
    "id": "529",
