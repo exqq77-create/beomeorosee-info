@@ -3708,7 +3708,13 @@
    "body_chars": 1407,
    "sha256_16": "053b02c9ce03674f",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "onda-lifting-handpiece-depth-check",
+     "date": "2026-11-05",
+     "note": "온다(극초단파) 리프팅: 핸드피스 깊이별 목적·통증 개인차·병행 구성 상담 확인"
+    }
+   ]
   },
   {
    "id": "300",
