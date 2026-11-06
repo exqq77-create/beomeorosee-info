@@ -2382,7 +2382,13 @@
    "body_chars": 1751,
    "sha256_16": "d8f5754f85dd4378",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "foot-fungus-humid-shoes-check",
+     "date": "2026-11-06",
+     "note": "발·피부 무좀: 습한 신발·공용 수건 등 생활환경, 유사 질환 감별 검사, 손발톱 이행 (기술·장비명 제외)"
+    }
+   ]
   },
   {
    "id": "191",
