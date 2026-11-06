@@ -4698,7 +4698,13 @@
    "body_chars": 1392,
    "sha256_16": "d42e87606a39f9e9",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "jaw-botox-asymmetry-joint-check",
+     "date": "2026-11-06",
+     "note": "사각턱 보톡스: 좌우 씹는 습관 차이·교근 vs 골격·좌우 용량 분리·턱관절 불편 시 원인 확인·사진 기록"
+    }
+   ]
   },
   {
    "id": "375",
