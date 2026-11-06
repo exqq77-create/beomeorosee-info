@@ -2328,7 +2328,13 @@
    "body_chars": 2091,
    "sha256_16": "83e7655e56f63945",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "pigment-laser-season-timing-check",
+     "date": "2026-11-06",
+     "note": "색소 레이저 계절 고민: 자외선은 연중 존재, 색소 원인 다양, 종류별 파장 조절, 시술 후 보습·딱지·자외선 차단"
+    }
+   ]
   },
   {
    "id": "187",
