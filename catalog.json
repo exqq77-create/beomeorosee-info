@@ -3546,7 +3546,13 @@
    "body_chars": 2281,
    "sha256_16": "90c1117c92deae06",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "men-beard-hair-removal-check",
+     "date": "2026-11-06",
+     "note": "남성 제모: 수염·굵은 체모, 면도/왁싱/레이저 차이, 생장주기, 사후관리"
+    }
+   ]
   },
   {
    "id": "286",
