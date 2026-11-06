@@ -3144,7 +3144,13 @@
    "body_chars": 2435,
    "sha256_16": "9e510dd70064823b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "noninvasive-lifting-daily-return-check",
+     "date": "2026-11-06",
+     "note": "비절개 탄력 관리 일상 복귀·변화 시점·유지 생활습관 각도"
+    }
+   ]
   },
   {
    "id": "253",
